@@ -1,0 +1,15 @@
+PCI Test Data - Credit Card Information
+========================================
+
+Client Name: Ajay McCartney
+Credit Card: 6011125223709063
+Bank Account: 9046127-432
+
+Client Name: Sandra Gooch
+Credit Card: 5116845485280950
+
+Client Name: Alex Hunt
+Credit Card: 4126246328149117
+Card Expiry: 30013622322912
+
+This file contains sensitive financial data for testing DLP policies.
