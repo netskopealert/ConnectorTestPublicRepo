@@ -1,3 +1,7 @@
-PCI Test Data:
-Credit Card: 4126246328149117
-Bank Account: 9046127-432
+
+
+=== EDITED FOR TEST CASE C1665103 ===
+Additional PCI Data:
+Credit Card: 5116845485280950
+Cardholder: Sandra Gooch
+Account Number: 341303856308768
