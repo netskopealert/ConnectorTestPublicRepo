@@ -1,1 +1,2 @@
 Exploratory testing - retry after transient commit error.
+Edited during exploratory testing round 2.
